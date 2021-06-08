@@ -1,6 +1,6 @@
 # MvcProjeKampi
--ASP.NET MVC bir online interaktif sözlük geliştirme projesidir. (Example EksiSözlük)
-
+- ASP.NET MVC bir online interaktif sözlük geliştirme projesidir. (Example EksiSözlük)
+- Bu repository Murat Yücedağ ile "Mvc Proje Kampı" Çalışmalarını içermektedir ve senkronize şekilde ilerlemektedir.
 - Sertifika Görev(2/4)
 
 
